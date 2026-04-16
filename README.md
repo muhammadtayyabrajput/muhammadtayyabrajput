@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Tayyab</h1>
-<h3 align="center">Software Engineer | Web & Backend Developer</h3>
+<h3 align="center">Software Engineer | Java & Spring Boot Specialist | Backend Engineer</h3>
 
 <p align="center">
-  Based in Lahore, Pakistan 🇵🇰 <br/>
-  Passionate about building scalable, secure, and maintainable web applications
+  📍 Lahore, Pakistan 🇵🇰 <br/>
+  Building scalable, secure, and high-performance backend systems
 </p>
 
 <img align="right" alt="Coding" width="400"
@@ -18,11 +18,24 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer at **i2c**, Lahore, Pakistan  
-- 🧠 Strong interest in **backend development, system design, and scalable architectures**
-- 🌱 Currently deepening expertise in **Spring Boot & Microservices**
-- 🔍 Enjoy solving complex problems and converting them into clean, user-centric solutions
+- 💼 Software Engineer at **i2c**, Lahore  
+- ☕ Specialized in **Java, Spring Boot, and enterprise backend development**  
+- 🏗️ Experienced in designing **scalable microservices architectures**  
+- 🔐 Strong focus on **secure systems (JWT, authentication, payment systems)**  
+- ⚙️ Hands-on with **REST APIs, system integration, and performance optimization**  
+- 🌱 Currently advancing in **Distributed Systems, Kafka, and Cloud-Native development**  
 - 📫 Reach me at **tayyabrajput360@gmail.com**
+
+---
+
+### 🚀 Core Expertise
+
+- **Backend Development:** Java, Spring Boot, Spring Security, Hibernate/JPA  
+- **Architecture:** Microservices, RESTful APIs, System Design  
+- **Security:** JWT Authentication, OAuth2, Secure Payment Flows  
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB  
+- **DevOps & Tools:** Docker, CI/CD Pipelines, Git  
+- **Other:** Kafka (Learning), Redis, API Integration  
 
 ---
 
@@ -43,7 +56,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
 
@@ -51,15 +64,10 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
 
 <!-- Frontend -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
 
 <!-- Databases -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -67,11 +75,9 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 
-<!-- Other -->
+<!-- DevOps & Others -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
 
 </p>
 
